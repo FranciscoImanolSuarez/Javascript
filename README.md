@@ -1,4 +1,4 @@
- ![javascript](/Users/franciscosuarez/Desktop/javascript.png)
+ ![Resultado de imagen para javascript](https://cdn-images-1.medium.com/max/1200/1*H-25KB7EbSHjv70HXrdl6w.png)
 
 
 
