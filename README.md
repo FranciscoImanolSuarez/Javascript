@@ -10,6 +10,8 @@ Publicaciones realizadas
 
 [Diferentes tipos de operadores](https://github.com/FranciscoImanolSuarez/Javascript/blob/master/Javascript%20operadores.md)
 
+[Tipos de datos y valores](https://github.com/FranciscoImanolSuarez/Javascript/blob/master/Tipos%20de%20datos%20y%20valores%20en%20Javascript.md)
+
 
 
 JavaScript es el lenguaje de la Web aunque tambien lo podemos encontrar en Aplicaciones de escritorio gracias a Electron.js, pero a la hora de programar un sitio web necesitamos de JavaScript, si bien podemos utilizar otros lenguajes, JavaScript es un estándar.
