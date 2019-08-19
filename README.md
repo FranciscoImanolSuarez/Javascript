@@ -12,7 +12,7 @@ Configuring Nodemon on a Node.js server[](https://medium.com/front-end-weekly/co
 
 Building a basic server with Hapi.js[](https://medium.com/@imanol_suarez?source=post_page-----f8d4f2b3456f----------------------)
 
-
+Detección de objetos en tiempo real en 10 líneas de código con TensorFlow.js[](https://medium.com/@imanol_suarez?source=post_page-----a0ea199a1d12----------------------)
 
 I invite you to read more things in my Medium profile
 
