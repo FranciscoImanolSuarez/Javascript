@@ -1,29 +1,22 @@
- ![Resultado de imagen para javascript](https://cdn-images-1.medium.com/max/1200/1*H-25KB7EbSHjv70HXrdl6w.png)
+##### 🙋‍♂️🖖Different types of posts made by me in my Medium profile about JavaScript, Golang, Python, and much more.
+
+Publications made
 
 
 
-Diferentes tipos de publicaciones realizadas por mi en mi canal de Medium sobre JavaScript, la idea es poder ayudar a todos los que se quieran iniciar en este lenguaje.
+JSDoc what is that?[](https://medium.com/@imanol_suarez?source=post_page-----1d2aa10d9635----------------------)
+
+Next.JS What is it?[](https://medium.com/@imanol_suarez?source=post_page-----9cb2f4af8f27----------------------)
+
+Configuring Nodemon on a Node.js server[](https://medium.com/front-end-weekly/configuring-nodemon-on-a-node-js-server-da9eed2eeb5)
+
+Building a basic server with Hapi.js[](https://medium.com/@imanol_suarez?source=post_page-----f8d4f2b3456f----------------------)
 
 
 
-Publicaciones realizadas
+I invite you to read more things in my Medium profile
 
-[Diferentes tipos de operadores](https://github.com/FranciscoImanolSuarez/Javascript/blob/master/Javascript%20operadores.md)
+Thanks for reading 🤓
 
-[Tipos de datos y valores](https://github.com/FranciscoImanolSuarez/Javascript/blob/master/Tipos%20de%20datos%20y%20valores%20en%20Javascript.md)
+📖 [My Medium](https://medium.com/@imanol_suarez?source=post_header_lockup)
 
-
-
-JavaScript es el lenguaje de la Web aunque tambien lo podemos encontrar en Aplicaciones de escritorio gracias a Electron.js, pero a la hora de programar un sitio web necesitamos de JavaScript, si bien podemos utilizar otros lenguajes, JavaScript es un estándar.
-
-Gracias a este magnifico lenguaje tenemos diferentes aplicaciones como lo son Gmail Twitter Github y mas, este lenguaje es muy demandado en la industria, ya que ademas de encontrarse en el Front-End tambien podemos encontrarlo en el lado del servidor gracias a Node.js.
-
-Gracias a la multitud de Frameworks que existen hoy en dia pueden crearse Single Page Applications que emulan la experiencia de una aplicacion movil pero ejecutada en el navegador.¿Has oido hablar del desarrollo basado en componentes? Si es asi, tal vez has escuchado sobre Polymer o React. Gracias a JavaScript y React Native podemos crear aplicaciones nativas para iOS y Android unicamente con JavaScript
-
-
-
-Te invito a leer mas cosas en mi perfil de Medium
-
-📖 [Medium](https://medium.com/@imanol_suarez?source=post_header_lockup)
-
-www.imanolsuarez.com
