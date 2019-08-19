@@ -1,10 +1,10 @@
 ##### 🙋‍♂️🖖Different types of posts made by me in my Medium profile about JavaScript, Golang, Python, and much more.
 
-Publications made
+![Resultado de imagen para medium](https://geniallysupport.zendesk.com/hc/article_attachments/360003784692/medium.jpeg)
 
 
 
-
+#### Publications made:
 
 [JSDoc what is that?](https://medium.com/@imanol_suarez?source=post_page-----1d2aa10d9635----------------------)
 
