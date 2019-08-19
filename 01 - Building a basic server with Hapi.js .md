@@ -2,7 +2,7 @@
 
 ![img](https://miro.medium.com/max/700/1*3xVhmgkXGjNfJmi3WUd_eQ.png)
 
-Before starting to launch lines of code, I think it is better to know what [Hapi](https://hapijs.com/)is, this wonderful Frameworks is one of the most used in the ecosystem of NodeJS. It was created at Walmart by Eran Hammer, who also created the OAuth, Hammer specification. As a leader of the Mobile team at Walmart, he encountered a problem: high website traffic on days close to Black Friday.
+Before starting to launch lines of code, I think it is better to know what [Hapi](https://hapijs.com/) is, this wonderful Frameworks is one of the most used in the ecosystem of NodeJS. It was created at Walmart by Eran Hammer, who also created the OAuth, Hammer specification. As a leader of the Mobile team at Walmart, he encountered a problem: high website traffic on days close to Black Friday.
 
 That’s why, together with their team, they decided to create Hapi, as an express middleware, since this did not offer them a solution to the problems they faced. After trying different combinations of solutions, they decide to create the entire framework from scratch based on “Better configuration than code”.
 
