@@ -10,7 +10,11 @@
 [🐱‍🏍Operadores en Javascript👀
 ](https://medium.com/javascript-espa%C3%B1ol/operadores-en-javascript-c563431ada65)
 
-[Next.JS What is it?](https://medium.com/@imanol_suarez?source=post_page-----9cb2f4af8f27----------------------)
+[🐱‍🏍Next.JS What is it?🐱‍👤](https://dev.to/franciscoimanolsuarez/next-js-what-is-it-16ni)
+
+[🧐🤓Data types and values in Javascript 💻](https://dev.to/franciscoimanolsuarez/data-types-and-values-in-javascript-2o38)
+
+[How to check if a JavaScript array contains a specific value 🤔](hhttps://dev.to/franciscoimanolsuarez/how-to-check-if-a-javascript-array-contains-a-specific-value-a8i)
 
 [🧐🤓Operaciones con cadenas 👀
 ](https://medium.com/javascript-espa%C3%B1ol/operaciones-con-cadenas-c476e761e31d)
