@@ -34,8 +34,11 @@
 
 
 
-I invite you to read more things in my Medium profile
+I invite you to read in Spanish on my media or dev.to in English
 
 Thanks for reading 🤓
 
 📖 [My Medium](https://medium.com/@imanol_suarez?source=post_header_lockup)
+📖 [My Dev.to](https://dev.to/franciscoimanolsuarez)
+
+
