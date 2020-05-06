@@ -1,9 +1,6 @@
-##### 🙋‍♂️🖖Different types of posts made by me in my Medium profile about JavaScript, Golang, Python, and much more.
+# 🙋‍♂️🖖Different types of posts made by me in my Medium profile about JavaScript, Golang, Python, and much more.
 
-![Resultado de imagen para medium](https://geniallysupport.zendesk.com/hc/article_attachments/360003784692/medium.jpeg)
-
-
-
+![Imagen de cabecera](https://cdn-images-1.medium.com/max/2000/1*4Ion3k5ITCDGFr1gs4Wz8w@2x.png)
 #### Publications made:
 [🧐🤓Tipos de datos y valores en Javascript💻](https://medium.com/javascript-espa%C3%B1ol/tipos-de-datos-y-valores-en-javascript-7989407b9e6f)
 
@@ -13,8 +10,6 @@
 [🐱‍🏍Next.JS What is it?🐱‍👤](https://dev.to/franciscoimanolsuarez/next-js-what-is-it-16ni)
 
 [🧐🤓Data types and values in Javascript 💻](https://dev.to/franciscoimanolsuarez/data-types-and-values-in-javascript-2o38)
-
-[How to check if a JavaScript array contains a specific value 🤔](hhttps://dev.to/franciscoimanolsuarez/how-to-check-if-a-javascript-array-contains-a-specific-value-a8i)
 
 [🧐🤓Operaciones con cadenas 👀
 ](https://medium.com/javascript-espa%C3%B1ol/operaciones-con-cadenas-c476e761e31d)
